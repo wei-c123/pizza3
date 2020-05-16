@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: weixia
+Build-Jdk: 13.0.2
+Implementation-Title: pizza3
+Implementation-Version: 1
+Implementation-Vendor-Id: pizza3
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/pizza3
+Main-Class: cs636.pizza.presentation.SBApplication
+Created-By: Maven Integration for Eclipse
+
